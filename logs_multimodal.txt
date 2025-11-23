@@ -1,0 +1,15 @@
+🚀 Starting STABILIZED Training on cuda
+   Loading Vocab from /home/visha/EHRMamba_Project/data/processed/vocab.pkl...
+⚡ Loading data from /home/visha/EHRMamba_Project/data/processed/train_data.pt...
+⚡ Loading embeddings from /home/visha/EHRMamba_Project/data/processed/train_note_embeddings.pkl...
+✅ Dataset loaded. Kept 49503 samples. Dropped 0 (Missing Notes).
+✅ Epoch 1 Average Loss: 7.1450
+✅ Epoch 2 Average Loss: 6.5265
+✅ Epoch 3 Average Loss: 6.3305
+✅ Epoch 4 Average Loss: 6.1916
+✅ Epoch 5 Average Loss: 6.0786
+✅ Epoch 6 Average Loss: 5.9899
+✅ Epoch 7 Average Loss: 5.9231
+✅ Epoch 8 Average Loss: 5.8673
+✅ Epoch 9 Average Loss: 5.8198
+✅ Epoch 10 Average Loss: 5.7776

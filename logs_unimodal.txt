@@ -1,0 +1,14 @@
+🚀 Starting UNIMODAL Training on cuda
+⚡ Loading data from /home/visha/EHRMamba_Project/data/processed/train_data.pt...
+⚡ Loading embeddings from /home/visha/EHRMamba_Project/data/processed/train_note_embeddings.pkl...
+✅ Dataset loaded. Kept 49503 samples. Dropped 0 (Missing Notes).
+✅ Epoch 1 Average Loss: 6.9919
+✅ Epoch 2 Average Loss: 6.3772
+✅ Epoch 3 Average Loss: 6.2455
+✅ Epoch 4 Average Loss: 6.1698
+✅ Epoch 5 Average Loss: 6.1170
+✅ Epoch 6 Average Loss: 6.0728
+✅ Epoch 7 Average Loss: 6.0351
+✅ Epoch 8 Average Loss: 6.0011
+✅ Epoch 9 Average Loss: 5.9621
+✅ Epoch 10 Average Loss: 5.9211

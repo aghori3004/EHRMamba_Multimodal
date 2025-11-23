@@ -1,0 +1,10 @@
+🚀 Starting STABILIZED Mortality Fine-Tuning on cuda
+⚡ Loading data from /home/visha/EHRMamba_Project/data/processed/train_data.pt...
+⚡ Loading embeddings from /home/visha/EHRMamba_Project/data/processed/train_note_embeddings.pkl...
+✅ Dataset loaded. Kept 49503 samples. Dropped 0 (Missing Notes).
+   Loading Pre-trained Weights...
+✅ Epoch 1 | Avg Loss: 0.0775 | Train AUC: 0.9162
+✅ Epoch 2 | Avg Loss: 0.0579 | Train AUC: 0.9603
+✅ Epoch 3 | Avg Loss: 0.0478 | Train AUC: 0.9763
+✅ Epoch 4 | Avg Loss: 0.0338 | Train AUC: 0.9881
+✅ Epoch 5 | Avg Loss: 0.0207 | Train AUC: 0.9938

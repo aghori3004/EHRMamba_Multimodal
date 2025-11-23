@@ -1,0 +1,10 @@
+🚀 Starting UNIMODAL Mortality Fine-Tuning on cuda
+⚡ Loading data from /home/visha/EHRMamba_Project/data/processed/train_data.pt...
+⚡ Loading embeddings from /home/visha/EHRMamba_Project/data/processed/train_note_embeddings.pkl...
+✅ Dataset loaded. Kept 49503 samples. Dropped 0 (Missing Notes).
+   Loading Unimodal Weights...
+✅ Epoch 1 | Avg Loss: 0.0813 | Train AUC: 0.8994
+✅ Epoch 2 | Avg Loss: 0.0620 | Train AUC: 0.9528
+✅ Epoch 3 | Avg Loss: 0.0498 | Train AUC: 0.9704
+✅ Epoch 4 | Avg Loss: 0.0362 | Train AUC: 0.9818
+✅ Epoch 5 | Avg Loss: 0.0252 | Train AUC: 0.9902

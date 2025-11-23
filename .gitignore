@@ -1,0 +1,17 @@
+# Ignore Data
+data/mimic_iv/
+data/mimic_iv_note/
+data/processed/
+*.gz
+*.pt
+*.pkl
+
+# Ignore Models & Checkpoints
+checkpoints/
+*.pth
+
+# Ignore System/Environment
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
