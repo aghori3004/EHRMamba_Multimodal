@@ -14,7 +14,7 @@ This notebook serves as the main entry point for the project. The complete sourc
 
 **STEP 1: Clone the repository**
 <pre>
-git clone [https://github.com/yourusername/EHRMamba-Multimodal.git](https://github.com/yourusername/EHRMamba-Multimodal.git)
+git clone https://github.com/aghori3004/EHRMamba_Multimodal.git
 cd EHRMamba-Multimodal/
 </pre>
 <br>
